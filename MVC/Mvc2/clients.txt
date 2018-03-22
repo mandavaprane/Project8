@@ -1,0 +1,49 @@
+1;George Washington;0
+2;John Adams;0
+3;Thomas Jefferson;0
+4;Aaron Burr;0
+5;George Clinton;0
+6;James Madison;0
+7;James Monroe;0
+8;Daniel D. Tompkins;0
+9;John Quincy Adams;0
+10;Andrew Jackson;0
+11;Martin Van Buren;0
+12;William Henry Harrison;0
+13;John Tyler;0
+14;office vacant;0
+15;James K. Polk;0
+16;Zachary Taylor;0
+17;Millard Fillmore;0
+18;Franklin Pierce;0
+19;James Buchanan;0
+20;Abraham Lincoln;0
+21;Andrew Johnson;0
+22;Ulysses S. Grant;0
+23;Rutherford Birchard Hayes;0
+24;James A. Garfield;0
+25;Chester A. Arthur;0
+26;Grover Cleveland;0
+27;Benjamin Harrison;0
+28;Levi P. Morton;0
+29;William McKinley;0
+30;Theodore Roosevelt;0
+31;William H. Taft;0
+32;Woodrow Wilson;0
+33;Thomas R. Marshall;0
+34;Warren G. Harding;0
+35;Calvin Coolidge;0
+36;Herbert Hoover;0
+37;Franklin D. Roosevelt;0
+38;Harry S. Truman;0
+39;Dwight D. Eisenhower;0
+40;John F. Kennedy;0
+41;Lyndon B. Johnson;0
+42;Richard M. Nixon;0
+43;Gerald R. Ford;0
+44;Jimmy Carter;0
+45;Ronald Reagan;0
+46;George Bush;0
+47;Bill Clinton;0
+48;George W. Bush;0
+49;Barack Obama;0

@@ -1,0 +1,182 @@
+1;Altitude;0
+2;Alien vs Ninja;0
+3;Arctic Blast;0
+4;Beyond the Black Rainbow;0
+5;The Book of Eli;0
+6;The Crazies;0
+7;Daybreakers;0
+8;Denizen;0
+9;Despicable Me;0
+10;The Disappearance of Haruhi Suzumiya;0
+11;Downstream;0
+12;Enthiran;0
+13;Future X-Cops;0
+14;Growth;0
+15;Hot Tub Time Machine;0
+16;Hunter Prey;0
+17;Inception;0
+18;Iron Man 2;0
+19;Kaboom;0
+20;Die kommenden Tage;0
+21;Mardock Scramble: The First Compression;0
+22;Megamind;0
+23;Monsters;0
+24;Mutant Girls Squad;0
+25;Never Let Me Go;0
+26;Predators;0
+27;Repo Men;0
+28;Resident Evil: Afterlife;0
+29;Shank;0
+30;Skyline;0
+31;Space Battleship Yamato;0
+32;Tron: Legacy;0
+33;Universal Soldier: Regeneration;0
+34;Womb;0
+35;7aam Arivu;0
+36;The Adjustment Bureau;0
+37;Another Earth;0
+38;Apollo 18;0
+39;Area Q;0
+40;Atlas Shrugged: Part I;0
+41;Attack the Block;0
+42;Battle: Los Angeles;0
+43;Captain America: The First Avenger;0
+44;Contagion;0
+45;Cowboys & Aliens;0
+46;The Darkest Hour;0
+47;EVA;0
+48;Extraterrestre;0
+49;Gantz;0
+50;Gantz: Perfect Answer;0
+51;Generation P;0
+52;Green Lantern;0
+53;Hanna;0
+54;Hell;0
+55;O Homem do Futuro (The Man from the Future);0
+56;I Am Number Four;0
+57;In Time;0
+58;Limitless;0
+59;Love;0
+60;Mardock Scramble: The Second Combustion;0
+61;Mars Needs Moms;0
+62;Melancholia;0
+63;Paul;0
+64;Phase 7;0
+65;Priest;0
+66;The Prodigies;0
+67;Quarantine 2: Terminal;0
+68;Ra.One;0
+69;Real Steel;0
+70;Rise of the Planet of the Apes;0
+71;Source Code;0
+72;Super 8;0
+73;The Thing;0
+74;Thor;0
+75;Transformers: Dark of the Moon;0
+76;X-Men: First Class;0
+77;009 Re:Cyborg;0
+78;Alien Origin;0
+79;The Amazing Spider-Man;0
+80;The Avengers;0
+81;Battleship;0
+82;Branded;0
+83;Chronicle;0
+84;Cloud Atlas;0
+85;Dredd;0
+86;The Divide;0
+87;Grabbers;0
+88;The Hunger Games;0
+89;Iron Sky;0
+90;John Carter;0
+91;Lockout;0
+92;Looper;0
+93;Mardock Scramble: The Third Exhaust;0
+94;Mars et Avril;0
+95;Men in Black 3;0
+96;Prometheus;0
+97;Resident Evil: Retribution;0
+98;Robot & Frank;0
+99;Safety Not Guaranteed;0
+100;Seeking a Friend for the End of the World;0
+101;Strange Frame;0
+102;Starship Troopers: Invasion;0
+103;Storage 24;0
+104;Total Recall;0
+105;Thermae Romae;0
+106;Upside Down;0
+107;The Watch;0
+108;After Earth;0
+109;The A.R.K. Report;0
+110;The Colony;0
+111;The Congress;0
+112;The Cosmonaut;0
+113;Dark Skies;0
+114;Despicable Me 2;0
+115;Elysium;0
+116;Escape from Planet Earth;0
+117;Europa Report;0
+118;Ender's Game;0
+119;G.I. Joe: Retaliation;0
+120;Gatchaman;0
+121;Gravity;0
+122;Hard to Be a God;0
+123;Her;0
+124;The Hunger Games: Catching Fire;0
+125;Independence Daysaster;0
+126;The Host;0
+127;Iron Man 3;0
+128;Krrish 3;0
+129;The Last Days;0
+130;The Last Days on Mars;0
+131;Man of Steel;0
+132;Oblivion;0
+133;Pacific Rim;0
+134;The Purge;0
+135;Riddick;0
+136;Snowpiercer;0
+137;Space Pirate Captain Harlock;0
+138;Star Trek Into Darkness;0
+139;Thor: The Dark World;0
+140;The Wolverine;0
+141;World War Z;0
+142;The World's End;0
+143;Young Ones;0
+144;The Zero Theorem;0
+145;The Amazing Spider-Man 2;0
+146;The Anomaly;0
+147;Armor Hero Atlas;0
+148;Autómata;0
+149;Beyond;0
+150;Big Hero 6;0
+151;Bodacious Space Pirates: Abyss of Hyperspace;0
+152;Bugs;0
+153;Captain America: The Winter Soldier;0
+154;Coherence;0
+155;Dawn of the Planet of the Apes;0
+156;The Device;0
+157;Divergent;0
+158;Earth to Echo;0
+159;Edge of Tomorrow;0
+160;Ejecta;0
+161;Expelled from Paradise;0
+162;The Giver;0
+163;Die Gstettensaga: The Rise of Echsenfriedl;0
+164;Godzilla;0
+165;Guardians of the Galaxy;0
+166;The Hunger Games: Mockingjay – Part 1;0
+167;Interstellar;0
+168;Lucy;0
+169;The Maze Runner;0
+170;Outpost 37;0
+171;Mr. Peabody & Sherman;0
+172;Parasyte: Part 1;0
+173;Predestination;0
+174;The Purge: Anarchy;0
+175;The Quiet Hour;0
+176;RoboCop;0
+177;The Signal;0
+178;Space Station 76;0
+179;Teenage Mutant Ninja Turtles;0
+180;Time Lapse;0
+181;Transcendence;0
+182;Transformers: Age of Extinction;0
